@@ -1,11 +1,10 @@
 #include<stdio.h>
-#include<conio.h>
-int main()
+int main(void)
 {
 printf("\n *");
 printf("\n **");
 printf("\n ***");
 printf("\n ****");
 printf("\n *****");
-getch();
+return 0;
 }
